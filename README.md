@@ -25,16 +25,19 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
+## :woman_technologist: About Me: 
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+- 💻 Software Developer based in Nairobi, Kenya.
 
 - :telescope: Computer Science student.
+
+- 👥 Open to collaborations.
 
 - :mailbox:How to reach me: jgitaridev@gmail.com
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -54,7 +57,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 [![Joanne Gitari's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joeygitari&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Joanne Gitari'sGitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joeygitari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
