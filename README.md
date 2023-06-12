@@ -10,9 +10,10 @@
   <a href="mailto:jgitaridev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.buymeacoffee.com/joeygitari" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
-
+<div id="badges2" align="center">
+  <a href="https://www.buymeacoffee.com/joeygitari"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=joeygitari&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+</div>
 <h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
