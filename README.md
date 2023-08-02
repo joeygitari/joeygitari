@@ -33,7 +33,7 @@
 
 ## :woman_technologist: About Me: 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
-- 💻 Software Developer based in Nairobi, Kenya.
+- 💻 Software Engineer based in Nairobi, Kenya.
 
 - :telescope: Computer Science student.
 
