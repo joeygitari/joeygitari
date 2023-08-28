@@ -28,9 +28,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/5UA9dtpyqCid5wif5t/giphy.gif" width="700"/>
 </div>
+
 ---
 ## :woman_technologist: About Me: 
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+
 - 💻 Software Engineer based in Nairobi, Kenya.
 
 - :telescope: Computer Science student.
