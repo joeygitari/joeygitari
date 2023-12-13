@@ -34,15 +34,15 @@
 
 - 💻 Software Engineer based in Nairobi, Kenya.
 
-- :telescope: Computer Science student.
+- 🔭 Computer Science student.
 
 - 👥 Open to collaborations.
 
-- :mailbox:How to reach me: jgitaridev@gmail.com
+- 📫 How to reach me: jgitaridev@gmail.com
 
 ---
 
-## :hammer_and_wrench: Languages and Tools :
+## 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -65,7 +65,7 @@
 
 ---
 
-## :fire: My Stats :
+## 🔥My Stats :
 [![Joanne Gitari's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joeygitari&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Joanne Gitari'sGitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joeygitari&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
