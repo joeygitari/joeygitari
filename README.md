@@ -30,7 +30,7 @@
 </div>
 
 ---
-## :woman_technologist: About Me: 
+## 👩🏽‍💻About Me: 
 
 - 💻 Software Engineer based in Nairobi, Kenya.
 
