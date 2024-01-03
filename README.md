@@ -18,8 +18,10 @@
 </div>
 
 <div id="badges2" align="center">
-  <a href="https://www.buymeacoffee.com/joeygitari"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=joeygitari&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.buymeacoffee.com/joeygitari"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=joeygitari&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FC8EAC" /></a>
 </div>
+
+
 <h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
