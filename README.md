@@ -38,6 +38,8 @@
 
 - 👥 Open to collaborations.
 
+- ⚡️ Fun fact: I love movies.
+
 - 📫 How to reach me: jgitaridev@gmail.com
 
 ---
