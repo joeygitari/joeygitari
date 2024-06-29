@@ -4,9 +4,8 @@
 
 
 <div id="badges" align="center">
- 
   <a href="https://jogitari-portfolio.vercel.app" target="_blank">
-    <img src="https://github.com/joeygitari/react-portfolio/blob/master/public/favicon.png" width="30px"/>
+    <img src="https://github.com/joeygitari/react-portfolio/blob/master/public/favicon.png" width="35px" alt="portfolio"/>
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/joanne-gitari-48105b235/" target="_blank">
@@ -18,9 +17,11 @@
 </div>
 
 <div id="badges2" align="center">
-  <a href="https://www.buymeacoffee.com/joeygitari"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=joeygitari&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FC8EAC" /></a>
-</div>
+ <a href="https://www.buymeacoffee.com/joeygitari" target="_blank">
+   <img width="180" alt="blue-button" src="https://github.com/joeygitari/joeygitari/assets/75974016/214379dd-1238-4c7d-bfeb-32fd51074ac9">
+</a>
 
+</div>
 
 <h1 align="center">
   Hey there!
@@ -36,13 +37,13 @@
 
 - 💻 Software Engineer based in Nairobi, Kenya.
 
-- 🔭 Computer Science student.
-
 - 👥 Open to collaborations.
 
 - ⚡️ Fun fact: I love movies.
 
 - 📫 How to reach me: jgitaridev@gmail.com
+
+- 💼 <a href="https://jogitari-portfolio.vercel.app"> View my portfolio </a>
 
 ---
 
